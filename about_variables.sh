@@ -3,9 +3,9 @@ x=1
 y=2
 z=3
 echo "output from double quoations"
-echo "$x"
-echo "$y"
-echo "$z"
+echo "the value of x is :"$x
+echo "the value of y is :"$y
+echo "the value of z is :"$z
 
 echo 'output from single quqtions'
 echo '$x'
