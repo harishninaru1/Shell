@@ -16,3 +16,5 @@ echo output from no quations
 echo $x
 echo $y
 echo $z
+
+echo -e "the value of x is $x \nthe value of y is $y \nthe value of z is $z"
